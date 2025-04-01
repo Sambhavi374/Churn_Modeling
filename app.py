@@ -3,6 +3,7 @@ import numpy as np
 import pandas as pd
 #from sklearn.preprocessing import StandardScaler , LabelEncoder, OneHotEncoder
 import pickle
+import tensorflow as tf
 from tensorflow.keras.models import load_model
 from tensorflow.keras.models import Model
 
